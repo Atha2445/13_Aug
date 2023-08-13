@@ -1,0 +1,8 @@
+Operentioms that can be performed on pointers
+1.Increment a pointer
+2.Decrement "---"
+3.Add integer to a pointer
+4.Substract integer from a pointer
+5.Substaction of two pointers
+6.Pointer Comprasion
+7.Pointer Assingment

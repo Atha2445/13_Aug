@@ -1,0 +1,4 @@
+Seed type: Unknown
+Fertilizers: Unknown
+Pesticides: Unknown
+Water required per day (in liters): 2000.00

@@ -1,0 +1,4 @@
+Crop name: Maize
+Land area (in acres): 4.00
+Soil type: Black
+Soil pH: 7.00
